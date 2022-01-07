@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\bin\Debug\SrochnaOcenka.exe.config
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\bin\Debug\SrochnaOcenka.exe
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\bin\Debug\SrochnaOcenka.pdb
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\obj\Debug\SrochnaOcenka.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\obj\Debug\SrochnaOcenka.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\obj\Debug\SrochnaOcenka.exe
+C:\Users\dayofpay\source\repos\SrochnaOcenka\SrochnaOcenka\obj\Debug\SrochnaOcenka.pdb
